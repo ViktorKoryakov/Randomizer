@@ -7,7 +7,7 @@ print("Настройте рандомайзер под себя")
 print("-"*30)
 print()
 
-# [ DEFINE SETTINGS ]
+# [ SETTINGS ]
 first_num = int(input("Введите первое число: "))
 second_num = int(input("Введите второе число: "))
 times = int(input("Введите кол-во чисел: "))
