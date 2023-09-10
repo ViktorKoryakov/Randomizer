@@ -23,7 +23,7 @@ print()
 
 # [ ANSWER ]
 if times > 1:
-    list = [11121] # DO NOT CHANGE
+    list = [] # DO NOT CHANGE
     for i in range(times):
         rand_num = random.randint(first_num, second_num)
         if repeating == True:
